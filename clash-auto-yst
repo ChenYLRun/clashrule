@@ -48,6 +48,7 @@ custom_proxy_group=🎮 游戏平台`select`[]PROXY
 custom_proxy_group=🚀 节点选择`select`[]PROXY
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]PROXY
 custom_proxy_group=🎞️ 国内媒体`select`[]DIRECT`[]PROXY
+custom_proxy_group=🌍 国外媒体`select`[]DIRECT`[]PROXY
 custom_proxy_group=🐟 漏网之鱼`select`[]PROXY
 
 ;3、节点组
