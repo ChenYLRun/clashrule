@@ -36,6 +36,7 @@ custom_proxy_group=🤖 AI`select`[]PROXY
 custom_proxy_group=☁️ Cloudflare`select`[]PROXY
 custom_proxy_group=Ⓜ️ 微软Bing`select`[]PROXY
 custom_proxy_proxy_group=🪟 Microsoft`select`[]PROXY
+custom_proxy_group=📢 GoogleFCM`select`[]PROXY
 custom_proxy_group=🍀 Google`select`[]PROXY
 custom_proxy_group=👨🏿‍💻 GitHub`select`[]PROXY
 custom_proxy_group=🍎 Apple`select`[]PROXY
