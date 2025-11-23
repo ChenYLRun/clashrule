@@ -1,22 +1,21 @@
 # NAME: myProxy
 # AUTHOR: cyl
-payload:
-  - DOMAIN-KEYWORD,yinfans
-  - DOMAIN-KEYWORD,danmu
-  - DOMAIN-KEYWORD,btbtla
-  - DOMAIN-KEYWORD,subtitlecat
-  - DOMAIN-KEYWORD,macked
-  - DOMAIN-KEYWORD,gying
-  - DOMAIN-KEYWORD,gamer520
-  - DOMAIN-KEYWORD,koyso
-  - DOMAIN-KEYWORD,flysheep6
-  - DOMAIN-KEYWORD,switch618
-  - DOMAIN-KEYWORD,pgame
-  - DOMAIN-KEYWORD,steambk
-  - DOMAIN-KEYWORD,echarts
-  - DOMAIN-KEYWORD,shadcn-vue
-  - DOMAIN-KEYWORD,naiveui
-  - DOMAIN-KEYWORD,tdesign
-  - DOMAIN-KEYWORD,element
-  - DOMAIN-KEYWORD,electronjs
-  - DOMAIN-KEYWORD,fgaiservice
+DOMAIN-KEYWORD,yinfans
+DOMAIN-KEYWORD,danmu
+DOMAIN-KEYWORD,btbtla
+DOMAIN-KEYWORD,subtitlecat
+DOMAIN-KEYWORD,macked
+DOMAIN-KEYWORD,gying
+DOMAIN-KEYWORD,gamer520
+DOMAIN-KEYWORD,koyso
+DOMAIN-KEYWORD,flysheep6
+DOMAIN-KEYWORD,switch618
+DOMAIN-KEYWORD,pgame
+DOMAIN-KEYWORD,steambk
+DOMAIN-KEYWORD,echarts
+DOMAIN-KEYWORD,shadcn-vue
+DOMAIN-KEYWORD,naiveui
+DOMAIN-KEYWORD,tdesign
+DOMAIN-KEYWORD,element
+DOMAIN-KEYWORD,electronjs
+DOMAIN-KEYWORD,fgaiservice
